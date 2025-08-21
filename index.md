@@ -6,9 +6,9 @@
 
 ![JavaScript Syntax in yellow](https://radicalhub.com/wp-content/uploads/2018/07/javascript.jpg)
 
-*** javascript
+
 var myVar = "Hello, world!";
-***
+
 
 
 
