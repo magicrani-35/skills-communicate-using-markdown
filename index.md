@@ -5,9 +5,11 @@
 # <h1> How should I mentally prepare for JavaScript? <h1>
 
 ![JavaScript Syntax in yellow](https://radicalhub.com/wp-content/uploads/2018/07/javascript.jpg)
-***
+
+*** javascript
 var myVar = "Hello, world!";
 ***
+
 
 
 
