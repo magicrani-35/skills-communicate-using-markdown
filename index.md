@@ -9,6 +9,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Finish my CSS module
+- [ ] Connect the last of the module to the stuff I will be seeing in JavaScript
+- [ ] Create a web page using all three! (HTML, CSS, & JavaScript)
 
 
 
